@@ -1,0 +1,8 @@
+python-telegram-bot
+motor
+transformers
+torch
+sentence-transformers
+scikit-learn
+numpy
+python-dotenv
